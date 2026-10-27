@@ -1,6 +1,6 @@
 # Idle Ring Game
 
-A simple idle game built with raylib. The library is now included in this repository, so users don’t need to install it separately.
+A very barebones idle game made with raylib. The library is now included in this repository, so users don’t need to install it separately.
 
 ## Build instructions
 

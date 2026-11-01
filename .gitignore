@@ -6,6 +6,10 @@
 # Project-specific files
 save.dat
 
+# Make files
+raylib.make
+ring-idle.make
+
 # User-specific files
 *.rsuser
 *.suo
